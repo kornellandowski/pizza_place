@@ -94,4 +94,3 @@ from rota r
 left join staff s on r.staff_id = s.staff_id 
 left join  shift sh  on r.shift_id  = sh.shift_id  
 
-select distinct * from stock1 s  
