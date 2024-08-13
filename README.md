@@ -1,4 +1,6 @@
 # Pizza_Place (PostgreSQL, Tableau)
+**dashboard links** <br>
+<a href="https://public.tableau.com/views/Pizzaplacedashboards/Orderactivity?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Link</a>
 # Project Overview:
 This project is contains designing and building a SQL database, writing custom SQL queries, and connecting the database to a Business Intelligence (BI) tool for creating interactive dashboards. 
 The project is designed to demonstrate key skills necessary for SQL-related roles, including database design, data normalization, query writing, and data visualization.
